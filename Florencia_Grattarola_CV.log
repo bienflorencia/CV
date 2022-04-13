@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.3.11)  12 MAR 2022 14:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.3.11)  13 APR 2022 18:07
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -9,8 +9,8 @@ LaTeX2e <2020-10-01> patch level 4
 L3 programming layer <2021-02-18> (./cv_formatting.tex
 (/usr/local/texlive/2021/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
-(/usr/local/texlive/2021/texmf-dist/tex/latex/base/size10.clo
-File: size10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
 )
 \c@part=\count179
 \c@section=\count180
@@ -419,27 +419,27 @@ e
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
 * driver: pdftex
-* paper: letterpaper
+* paper: a4paper
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: includemp 
-* h-part:(L,W,R)=(72.26999pt, 469.75502pt, 72.26999pt)
-* v-part:(T,H,B)=(72.26999pt, 650.43001pt, 72.26999pt)
-* \paperwidth=614.295pt
-* \paperheight=794.96999pt
-* \textwidth=379.41754pt
-* \textheight=650.43001pt
-* \oddsidemargin=90.33748pt
-* \evensidemargin=90.33748pt
-* \topmargin=-37.0pt
+* h-part:(L,W,R)=(71.13188pt, 455.24411pt, 71.13188pt)
+* v-part:(T,H,B)=(71.13188pt, 702.78308pt, 71.13188pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=365.61795pt
+* \textheight=702.78308pt
+* \oddsidemargin=88.48805pt
+* \evensidemargin=88.48805pt
+* \topmargin=-38.1381pt
 * \headheight=12.0pt
 * \headsep=25.0pt
-* \topskip=10.0pt
+* \topskip=11.0pt
 * \footskip=30.0pt
-* \marginparwidth=86.72377pt
-* \marginparsep=3.61371pt
+* \marginparwidth=86.7809pt
+* \marginparsep=2.84526pt
 * \columnsep=10.0pt
-* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -482,168 +482,207 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.19     	Phone: +420 774 975 962‬
-                                    
+l.19     	Phone: (+420) 774 975 962‬
+                                      
 ? 
 
-Underfull \hbox (badness 10000) in paragraph at lines 27--30
+Underfull \hbox (badness 10000) in paragraph at lines 14--21
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 31--35
+Underfull \hbox (badness 10000) in paragraph at lines 28--31
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 36--39
+Underfull \hbox (badness 10000) in paragraph at lines 32--36
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 48--51
+Underfull \hbox (badness 10000) in paragraph at lines 37--40
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 52--55
+Underfull \hbox (badness 10000) in paragraph at lines 49--52
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 56--59
+Underfull \hbox (badness 10000) in paragraph at lines 53--56
 
  []
 
 
-Overfull \hbox (4.64476pt too wide) in paragraph at lines 60--63
-\OT1/cmr/m/n/10 Department of An-i-mal Ge-net-ics, School of Vet-eri-nary, \OT1
-/cmr/bx/n/10 Uni-ver-si-dad de la Rep^^Sublica\OT1/cmr/m/n/10 ,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 60--63
+Underfull \hbox (badness 10000) in paragraph at lines 57--60
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 64--67
+Underfull \hbox (badness 10000) in paragraph at lines 61--64
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 68--71
+Underfull \hbox (badness 10000) in paragraph at lines 65--68
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 72--75
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 76--79
+Underfull \hbox (badness 10000) in paragraph at lines 69--72
 
  []
 
 [1
 
 {/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 80--83
+Underfull \hbox (badness 10000) in paragraph at lines 73--76
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 84--87
+Underfull \hbox (badness 10000) in paragraph at lines 77--80
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 84--87
+Underfull \hbox (badness 10000) in paragraph at lines 81--84
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 84--87
+Underfull \hbox (badness 10000) in paragraph at lines 85--88
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 85--88
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 85--88
 
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 97.
+(Font)              <10.95> on input line 98.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 97.
-LaTeX Font Info:    Trying to load font information for U+wasy on input line 97
+(Font)              <8> on input line 98.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 98.
+LaTeX Font Info:    Trying to load font information for U+wasy on input line 98
 .
 (/usr/local/texlive/2021/texmf-dist/tex/latex/wasysym/uwasy.fd
 File: uwasy.fd 2020/01/19 v2.4 Wasy-2 symbol font definitions
 )
-Overfull \hbox (4.88892pt too wide) in paragraph at lines 117--118
-\OT1/cmr/m/n/10 jaguarundi (Puma yagouaroundi) (Mam-malia: Car-nivora: Fe-l-i-d
-ae) in Uruguay,with
- []
+
+LaTeX Warning: Reference `LastPage' on page 2 undefined on input line 113.
 
 [2]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\\' on input line 132.
+(hyperref)                removing `\\' on input line 133.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 191--195
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 196--200
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 201--205
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 206--210
-
- []
+LaTeX Warning: Reference `LastPage' on page 3 undefined on input line 183.
 
 [3]
-Underfull \hbox (badness 10000) in paragraph at lines 211--215
+Underfull \hbox (badness 10000) in paragraph at lines 192--196
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 216--220
+Underfull \hbox (badness 10000) in paragraph at lines 197--201
 
  []
 
 
-Overfull \hbox (4.79045pt too wide) in paragraph at lines 227--228
-\OT1/cmr/m/n/10 SQL, Mark-down, Hugo-R, jekyll, Word-Press, GBIF IPT, Dar-win-C
-ore stan-dard, InkScape
+Overfull \hbox (36.86615pt too wide) in paragraph at lines 202--206
+\OT1/cmr/m/n/10.95 tional Agency for Re-search and In-no-va-tion (ANII) Uruguay
+ POS[]NAC[]2012[]1[]8976 
  []
 
 
-Overfull \hbox (5.08998pt too wide) in paragraph at lines 235--236
-[]\OT1/cmr/bx/n/10 Field\OT1/cmr/m/n/10 : non-invasive wildlife mon-i-tor-ing, 
-camera-traps, bat sen-sor EchoMe-ter, Au-dioMoth
+Underfull \hbox (badness 10000) in paragraph at lines 202--206
+
  []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 207--211
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 212--216
+
+ []
+
+
+Overfull \hbox (12.69704pt too wide) in paragraph at lines 217--221
+\OT1/cmr/m/n/10.95 tional Agency for Re-search and In-no-va-tion (ANII) Uruguay
+ BE[]INI[]2010[]1961 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 217--221
+
+ []
+
+
+Overfull \hbox (20.4411pt too wide) in paragraph at lines 240--241
+[]\OT1/cmr/bx/n/10.95 Statistics\OT1/cmr/m/n/10.95 : GLM, hi-er-ar-chi-cal (mix
+ed-effects) mod-els, ma-chine learn-ing, Bayesian
+ []
+
+
+LaTeX Warning: Reference `LastPage' on page 4 undefined on input line 254.
+
+[4]
+Overfull \hbox (8.92323pt too wide) in paragraph at lines 258--259
+\OT1/cmr/m/n/10.95 tion Mon-i-tor-ing Cen-tre, UK. \U/wasy/m/n/10.95 ^^G\OT1/cm
+r/m/n/10.95 +44(0) 12 2327 7314. [][]lauren.weatherdon@unep-
+ []
+
+
+LaTeX Warning: Etaremune labels have changed.
+               Rerun to get them right.
+
+
+Package lastpage Warning: Rerun to get the references right on input line 267.
 
 
 AED: lastpage setting LastPage
-[4] (./Florencia_Grattarola_CV.aux)
-Package rerunfilecheck Info: File `Florencia_Grattarola_CV.out' has not changed
-.
-(rerunfilecheck)             Checksum: F37A0762240F6A6A2DE9BB7105D54939;1302.
+
+LaTeX Warning: Reference `LastPage' on page 5 undefined on input line 267.
+
+[5] (./Florencia_Grattarola_CV.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package rerunfilecheck Warning: File `Florencia_Grattarola_CV.out' has changed.
+
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `Florencia_Grattarola_CV.out':
+(rerunfilecheck)             Before: D41D8CD98F00B204E9800998ECF8427E;0
+(rerunfilecheck)             After:  F37A0762240F6A6A2DE9BB7105D54939;1302.
  ) 
 Here is how much of TeX's memory you used:
- 9668 strings out of 478994
- 143820 string characters out of 5858184
- 466809 words of memory out of 5000000
- 26999 multiletter control sequences out of 15000+600000
- 406986 words of font info for 39 fonts, out of 8000000 for 9000
+ 9671 strings out of 478994
+ 143883 string characters out of 5858184
+ 466656 words of memory out of 5000000
+ 26997 multiletter control sequences out of 15000+600000
+ 409740 words of font info for 48 fonts, out of 8000000 for 9000
  1145 hyphenation exceptions out of 8191
- 76i,12n,83p,482b,454s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 76i,12n,83p,482b,456s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
 }</usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb>
 </usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><
@@ -651,13 +690,12 @@ Here is how much of TeX's memory you used:
 </usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb>
 </usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></
 usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></u
-sr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr
-/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/l
-ocal/texlive/2021/texmf-dist/fonts/type1/public/wasy-type1/wasy10.pfb>
-Output written on Florencia_Grattarola_CV.pdf (4 pages, 134947 bytes).
+sr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr
+/local/texlive/2021/texmf-dist/fonts/type1/public/wasy-type1/wasy10.pfb>
+Output written on Florencia_Grattarola_CV.pdf (5 pages, 126997 bytes).
 PDF statistics:
- 138 PDF objects out of 1000 (max. 8388607)
- 121 compressed objects within 2 object streams
- 16 named destinations out of 1000 (max. 500000)
- 89 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 106 PDF objects out of 1000 (max. 8388607)
+ 90 compressed objects within 1 object stream
+ 17 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
