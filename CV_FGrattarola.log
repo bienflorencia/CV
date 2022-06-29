@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.3.11)  29 JUN 2022 13:26
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.3.11)  29 JUN 2022 17:01
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1215,10 +1215,10 @@ Package rerunfilecheck Info: File `CV_FGrattarola.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 23286 strings out of 478994
- 444399 string characters out of 5858184
- 760181 words of memory out of 5000000
- 40322 multiletter control sequences out of 15000+600000
+ 23285 strings out of 478994
+ 444392 string characters out of 5858184
+ 760145 words of memory out of 5000000
+ 40321 multiletter control sequences out of 15000+600000
  544616 words of font info for 58 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,8n,130p,776b,423s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1232,7 +1232,7 @@ ome.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/impallari/raleway/Ralew
 ay-Bold.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/impallari/raleway/R
 aleway-BoldItalic.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/impallari
 /raleway/Raleway-Regular.pfb>
-Output written on CV_FGrattarola.pdf (5 pages, 105117 bytes).
+Output written on CV_FGrattarola.pdf (5 pages, 105052 bytes).
 PDF statistics:
  123 PDF objects out of 1000 (max. 8388607)
  110 compressed objects within 2 object streams
