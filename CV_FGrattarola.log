@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.3.11)  7 NOV 2022 10:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.3.11)  10 NOV 2022 17:34
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1040,11 +1040,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 97--98
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 97--98
-
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 127--128
 
  []
@@ -1106,47 +1101,48 @@ nce-only and presence-absence data to model changes
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 260--261
+Underfull \hbox (badness 10000) in paragraph at lines 256--257
 
  []
 
 
-Overfull \hbox (8.00002pt too wide) in alignment at lines 262--313
+Overfull \hbox (1.9642pt too wide) in paragraph at lines 260--261
+[]\T1/Raleway-TLF/m/n/9 Chouhy M., Bergós L., Garay A., $[]$, Per-azza G., San-
+tos C. & Taks J. (2022) Rela-ciones Sociedad-Naturaleza
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 268--269
+
+ []
+
+
+Overfull \hbox (8.00002pt too wide) in alignment at lines 270--321
  [] [] 
  []
 
 
-Overfull \hbox (8.00002pt too wide) in alignment at lines 313--334
+Overfull \hbox (8.00002pt too wide) in alignment at lines 321--342
  [] [] 
  []
 
 [2]
-Underfull \hbox (badness 10000) in paragraph at lines 340--341
+Underfull \hbox (badness 10000) in paragraph at lines 348--349
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 351--352
+Underfull \hbox (badness 10000) in paragraph at lines 359--360
 
  []
 
 
-Overfull \hbox (8.00002pt too wide) in alignment at lines 353--389
+Overfull \hbox (8.00002pt too wide) in alignment at lines 361--397
  [] [] 
  []
 
 [3]
-Underfull \hbox (badness 10000) in paragraph at lines 397--398
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 403--404
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 405--407
+Underfull \hbox (badness 10000) in paragraph at lines 405--406
 
  []
 
@@ -1156,57 +1152,67 @@ Underfull \hbox (badness 10000) in paragraph at lines 412--413
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 414--423
+Underfull \hbox (badness 10000) in paragraph at lines 414--416
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 414--423
+Underfull \hbox (badness 10000) in paragraph at lines 421--422
 
  []
 
 
-Overfull \hbox (1.52998pt too wide) in paragraph at lines 395--425
+Underfull \hbox (badness 10000) in paragraph at lines 423--432
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 423--432
+
+ []
+
+
+Overfull \hbox (1.52998pt too wide) in paragraph at lines 403--434
 [][]  [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 431--432
+Underfull \hbox (badness 10000) in paragraph at lines 440--441
 
  []
 
 
-Overfull \hbox (8.00002pt too wide) in alignment at lines 433--480
+Overfull \hbox (8.00002pt too wide) in alignment at lines 442--489
  [] [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 486--487
+Underfull \hbox (badness 10000) in paragraph at lines 495--496
 
  []
 
 
-Overfull \hbox (8.00002pt too wide) in alignment at lines 488--539
+Overfull \hbox (8.00002pt too wide) in alignment at lines 497--548
  [] [] 
  []
 
 
-Overfull \hbox (8.00002pt too wide) in alignment at lines 539--564
+Overfull \hbox (8.00002pt too wide) in alignment at lines 548--573
  [] [] 
  []
 
 [4]
-Underfull \hbox (badness 10000) in paragraph at lines 570--571
+Underfull \hbox (badness 10000) in paragraph at lines 579--580
 
  []
 
 
-Overfull \hbox (8.00002pt too wide) in alignment at lines 572--623
+Overfull \hbox (8.00002pt too wide) in alignment at lines 581--632
  [] [] 
  []
 
 
-Overfull \hbox (8.00002pt too wide) in alignment at lines 623--653
+Overfull \hbox (8.00002pt too wide) in alignment at lines 632--662
  [] [] 
  []
 
@@ -1215,13 +1221,13 @@ Package rerunfilecheck Info: File `CV_FGrattarola.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 23286 strings out of 478994
- 444398 string characters out of 5858184
- 761145 words of memory out of 5000000
- 40321 multiletter control sequences out of 15000+600000
+ 23287 strings out of 478994
+ 444411 string characters out of 5858184
+ 761148 words of memory out of 5000000
+ 40322 multiletter control sequences out of 15000+600000
  544616 words of font info for 58 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 128i,8n,130p,776b,423s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 128i,8n,130p,1102b,423s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/raleway/a_2bcjq6.enc}{/us
 r/local/texlive/2021/texmf-dist/fonts/enc/dvips/raleway/a_bzmckq.enc}{/usr/loca
 l/texlive/2021/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomethree.enc}{/us
@@ -1232,10 +1238,10 @@ ome.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/impallari/raleway/Ralew
 ay-Bold.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/impallari/raleway/R
 aleway-BoldItalic.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/impallari
 /raleway/Raleway-Regular.pfb>
-Output written on CV_FGrattarola.pdf (6 pages, 106435 bytes).
+Output written on CV_FGrattarola.pdf (6 pages, 107694 bytes).
 PDF statistics:
- 130 PDF objects out of 1000 (max. 8388607)
- 116 compressed objects within 2 object streams
+ 133 PDF objects out of 1000 (max. 8388607)
+ 119 compressed objects within 2 object streams
  14 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
