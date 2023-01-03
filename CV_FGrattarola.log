@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.3.11)  11 DEC 2022 13:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.3.11)  3 JAN 2023 15:08
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1080,137 +1080,137 @@ LaTeX Font Info:    Font shape `T1/Raleway-TLF/m/it' will be
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/b/it' will be
 (Font)              scaled to size 9.0pt on input line 221.
 LaTeX Font Info:    Trying to load font information for TS1+Raleway-TLF on inpu
-t line 241.
+t line 243.
 (/usr/local/texlive/2021/texmf-dist/tex/latex/raleway/TS1Raleway-TLF.fd
 File: TS1Raleway-TLF.fd 2014/07/28 (autoinst) Font definitions for TS1/Raleway-
 TLF.
 )
 LaTeX Font Info:    Font shape `TS1/Raleway-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 241.
+(Font)              scaled to size 9.0pt on input line 243.
 
-Underfull \hbox (badness 10000) in paragraph at lines 250--251
+Underfull \hbox (badness 10000) in paragraph at lines 252--253
 
  []
 
 
-Overfull \hbox (0.16418pt too wide) in paragraph at lines 254--255
+Overfull \hbox (0.16418pt too wide) in paragraph at lines 256--257
 []$[]$\T1/Raleway-TLF/m/n/9 , Bowler E.D. & Keil P. (2022) In-te-grat-ing prese
 nce-only and presence-absence data to model changes
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 260--261
+Underfull \hbox (badness 10000) in paragraph at lines 262--263
 
  []
 
 
-Overfull \hbox (1.9642pt too wide) in paragraph at lines 264--265
+Overfull \hbox (1.9642pt too wide) in paragraph at lines 266--267
 []\T1/Raleway-TLF/m/n/9 Chouhy M., Bergós L., Garay A., $[]$, Per-azza G., San-
 tos C. & Taks J. (2022) Rela-ciones Sociedad-Naturaleza
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--273
+Underfull \hbox (badness 10000) in paragraph at lines 274--275
 
  []
 
 
-Overfull \hbox (8.00002pt too wide) in alignment at lines 274--325
- [] [] 
- []
-
-
-Overfull \hbox (8.00002pt too wide) in alignment at lines 325--346
+Overfull \hbox (8.00002pt too wide) in alignment at lines 276--327
  [] [] 
  []
 
 [2]
-Underfull \hbox (badness 10000) in paragraph at lines 352--353
+Overfull \hbox (8.00002pt too wide) in alignment at lines 327--348
+ [] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 354--355
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 363--364
+Underfull \hbox (badness 10000) in paragraph at lines 365--366
 
  []
 
 
-Overfull \hbox (8.00002pt too wide) in alignment at lines 365--401
+Overfull \hbox (8.00002pt too wide) in alignment at lines 367--403
  [] [] 
  []
 
 [3]
-Underfull \hbox (badness 10000) in paragraph at lines 409--410
+Underfull \hbox (badness 10000) in paragraph at lines 411--412
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 416--417
+Underfull \hbox (badness 10000) in paragraph at lines 418--419
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 418--420
+Underfull \hbox (badness 10000) in paragraph at lines 420--422
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 425--426
+Underfull \hbox (badness 10000) in paragraph at lines 427--428
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 427--436
+Underfull \hbox (badness 10000) in paragraph at lines 429--438
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 427--436
+Underfull \hbox (badness 10000) in paragraph at lines 429--438
 
  []
 
 
-Overfull \hbox (1.52998pt too wide) in paragraph at lines 407--438
+Overfull \hbox (1.52998pt too wide) in paragraph at lines 409--440
 [][]  [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 444--445
+Underfull \hbox (badness 10000) in paragraph at lines 446--447
 
  []
 
 
-Overfull \hbox (8.00002pt too wide) in alignment at lines 446--493
+Overfull \hbox (8.00002pt too wide) in alignment at lines 448--495
  [] [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 499--500
+Underfull \hbox (badness 10000) in paragraph at lines 501--502
 
  []
 
 
-Overfull \hbox (8.00002pt too wide) in alignment at lines 501--552
+Overfull \hbox (8.00002pt too wide) in alignment at lines 503--554
  [] [] 
  []
 
 
-Overfull \hbox (8.00002pt too wide) in alignment at lines 552--582
+Overfull \hbox (8.00002pt too wide) in alignment at lines 554--589
  [] [] 
  []
 
 [4]
-Underfull \hbox (badness 10000) in paragraph at lines 588--589
+Underfull \hbox (badness 10000) in paragraph at lines 595--596
 
  []
 
 
-Overfull \hbox (8.00002pt too wide) in alignment at lines 590--641
+Overfull \hbox (8.00002pt too wide) in alignment at lines 597--648
  [] [] 
  []
 
 
-Overfull \hbox (8.00002pt too wide) in alignment at lines 641--671
+Overfull \hbox (8.00002pt too wide) in alignment at lines 648--678
  [] [] 
  []
 
@@ -1221,7 +1221,7 @@ Package rerunfilecheck Info: File `CV_FGrattarola.out' has not changed.
 Here is how much of TeX's memory you used:
  23287 strings out of 478994
  444411 string characters out of 5858184
- 763148 words of memory out of 5000000
+ 765148 words of memory out of 5000000
  40322 multiletter control sequences out of 15000+600000
  544616 words of font info for 58 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1236,10 +1236,10 @@ ome.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/impallari/raleway/Ralew
 ay-Bold.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/impallari/raleway/R
 aleway-BoldItalic.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/impallari
 /raleway/Raleway-Regular.pfb>
-Output written on CV_FGrattarola.pdf (6 pages, 109409 bytes).
+Output written on CV_FGrattarola.pdf (6 pages, 110169 bytes).
 PDF statistics:
- 138 PDF objects out of 1000 (max. 8388607)
- 124 compressed objects within 2 object streams
+ 140 PDF objects out of 1000 (max. 8388607)
+ 126 compressed objects within 2 object streams
  14 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
