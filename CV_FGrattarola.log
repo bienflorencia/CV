@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.3.11)  21 JAN 2023 16:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.3.11)  25 JAN 2023 21:02
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1180,37 +1180,42 @@ Underfull \hbox (badness 10000) in paragraph at lines 446--447
  []
 
 
-Overfull \hbox (8.00002pt too wide) in alignment at lines 448--495
+Overfull \hbox (8.00002pt too wide) in alignment at lines 448--499
  [] [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 501--502
-
- []
-
-
-Overfull \hbox (8.00002pt too wide) in alignment at lines 503--554
+Overfull \hbox (8.00002pt too wide) in alignment at lines 499--500
  [] [] 
  []
 
 
-Overfull \hbox (8.00002pt too wide) in alignment at lines 554--589
+Underfull \hbox (badness 10000) in paragraph at lines 506--507
+
+ []
+
+
+Overfull \hbox (8.00002pt too wide) in alignment at lines 508--559
  [] [] 
  []
 
 [4]
-Underfull \hbox (badness 10000) in paragraph at lines 595--596
-
- []
-
-
-Overfull \hbox (8.00002pt too wide) in alignment at lines 597--648
+Overfull \hbox (8.00002pt too wide) in alignment at lines 559--594
  [] [] 
  []
 
 
-Overfull \hbox (8.00002pt too wide) in alignment at lines 648--678
+Underfull \hbox (badness 10000) in paragraph at lines 600--601
+
+ []
+
+
+Overfull \hbox (8.00002pt too wide) in alignment at lines 602--653
+ [] [] 
+ []
+
+
+Overfull \hbox (8.00002pt too wide) in alignment at lines 653--688
  [] [] 
  []
 
@@ -1221,7 +1226,7 @@ Package rerunfilecheck Info: File `CV_FGrattarola.out' has not changed.
 Here is how much of TeX's memory you used:
  23287 strings out of 478994
  444411 string characters out of 5858184
- 765148 words of memory out of 5000000
+ 766148 words of memory out of 5000000
  40322 multiletter control sequences out of 15000+600000
  544616 words of font info for 58 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1236,10 +1241,10 @@ ome.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/impallari/raleway/Ralew
 ay-Bold.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/impallari/raleway/R
 aleway-BoldItalic.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/impallari
 /raleway/Raleway-Regular.pfb>
-Output written on CV_FGrattarola.pdf (6 pages, 110171 bytes).
+Output written on CV_FGrattarola.pdf (6 pages, 110452 bytes).
 PDF statistics:
- 140 PDF objects out of 1000 (max. 8388607)
- 126 compressed objects within 2 object streams
+ 142 PDF objects out of 1000 (max. 8388607)
+ 128 compressed objects within 2 object streams
  14 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
