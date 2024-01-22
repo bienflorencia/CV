@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.3.11)  24 NOV 2023 13:07
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.3.11)  22 JAN 2024 20:12
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -999,264 +999,269 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/m/n' will be
-(Font)              scaled to size 29.86pt on input line 38.
+(Font)              scaled to size 29.86pt on input line 39.
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/b/n' will be
-(Font)              scaled to size 29.86pt on input line 38.
+(Font)              scaled to size 29.86pt on input line 39.
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/m/n' will be
-(Font)              scaled to size 14.4pt on input line 44.
+(Font)              scaled to size 14.4pt on input line 45.
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 51.
+(Font)              scaled to size 10.0pt on input line 52.
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree2 on i
-nput line 51.
+nput line 52.
 
 (/usr/local/texlive/2021/texmf-dist/tex/latex/fontawesome5/ufontawesomefree2.fd
 )
 LaTeX Font Info:    External font `cmex7' loaded for size
-(Font)              <6> on input line 51.
+(Font)              <6> on input line 52.
 LaTeX Font Info:    External font `cmex7' loaded for size
-(Font)              <5> on input line 51.
+(Font)              <5> on input line 52.
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree0 on i
-nput line 53.
+nput line 54.
 
 (/usr/local/texlive/2021/texmf-dist/tex/latex/fontawesome5/ufontawesomefree0.fd
 )
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on i
-nput line 54.
+nput line 55.
 
 (/usr/local/texlive/2021/texmf-dist/tex/latex/fontawesome5/ufontawesomefree1.fd
 )
-Underfull \hbox (badness 10000) in paragraph at lines 51--55
+Underfull \hbox (badness 10000) in paragraph at lines 52--56
 
  []
 
 LaTeX Font Info:    Trying to load font information for U+fontawesomebrands0 on
- input line 61.
+ input line 62.
 
 (/usr/local/texlive/2021/texmf-dist/tex/latex/fontawesome5/ufontawesomebrands0.
 fd)
 LaTeX Font Info:    Font shape `U/fontawesomebrands0/solid/n' in size <10> not 
 available
 (Font)              Font shape `U/fontawesomebrands0/regular/n' tried instead o
-n input line 61.
+n input line 62.
 LaTeX Font Info:    Trying to load font information for U+fontawesomebrands1 on
- input line 62.
+ input line 63.
 
 (/usr/local/texlive/2021/texmf-dist/tex/latex/fontawesome5/ufontawesomebrands1.
 fd)
 LaTeX Font Info:    Font shape `U/fontawesomebrands1/solid/n' in size <10> not 
 available
 (Font)              Font shape `U/fontawesomebrands1/regular/n' tried instead o
-n input line 62.
+n input line 63.
 
-Underfull \hbox (badness 10000) in paragraph at lines 61--66
+Underfull \hbox (badness 10000) in paragraph at lines 62--67
 
  []
 
 
-Overfull \hbox (3.05258pt too wide) in paragraph at lines 33--67
+Overfull \hbox (3.05258pt too wide) in paragraph at lines 34--68
 [][] [] [] 
  []
 
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/b/n' will be
-(Font)              scaled to size 9.0pt on input line 98.
+(Font)              scaled to size 9.0pt on input line 99.
 
-Underfull \hbox (badness 10000) in paragraph at lines 98--99
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 100--101
+Underfull \hbox (badness 10000) in paragraph at lines 99--100
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 130--131
+Underfull \hbox (badness 10000) in paragraph at lines 101--102
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 131--132
 
  []
 
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/m/n' will be
-(Font)              scaled to size 7.0pt on input line 137.
+(Font)              scaled to size 7.0pt on input line 138.
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/b/n' will be
-(Font)              scaled to size 7.0pt on input line 137.
+(Font)              scaled to size 7.0pt on input line 138.
 
-Overfull \hbox (8.00002pt too wide) in alignment at lines 132--148
+Overfull \hbox (8.00002pt too wide) in alignment at lines 133--149
  [] [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 154--155
+Underfull \hbox (badness 10000) in paragraph at lines 155--156
 
  []
 
 
-Overfull \hbox (8.00002pt too wide) in alignment at lines 156--212
+Overfull \hbox (8.00002pt too wide) in alignment at lines 157--213
  [] [] 
  []
 
 
-Overfull \hbox (8.00002pt too wide) in alignment at lines 212--222
+Overfull \hbox (8.00002pt too wide) in alignment at lines 213--223
  [] [] 
  []
 
 [1
 
 {/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 228--229
+Underfull \hbox (badness 10000) in paragraph at lines 229--230
 
  []
 
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/m/it' will be
-(Font)              scaled to size 9.0pt on input line 232.
+(Font)              scaled to size 9.0pt on input line 233.
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/b/it' will be
-(Font)              scaled to size 9.0pt on input line 232.
+(Font)              scaled to size 9.0pt on input line 233.
 
-Overfull \hbox (1.5232pt too wide) in paragraph at lines 236--237
+Overfull \hbox (1.5232pt too wide) in paragraph at lines 239--240
 []$[]$\T1/Raleway-TLF/m/n/9 , Bowler D.E. & Keil P. (2023) In-te-grat-ing prese
 nce-only and pres-ence^^Uabsence data to model changes
  []
 
 LaTeX Font Info:    Trying to load font information for TS1+Raleway-TLF on inpu
-t line 262.
+t line 265.
 (/usr/local/texlive/2021/texmf-dist/tex/latex/raleway/TS1Raleway-TLF.fd
 File: TS1Raleway-TLF.fd 2014/07/28 (autoinst) Font definitions for TS1/Raleway-
 TLF.
 )
 LaTeX Font Info:    Font shape `TS1/Raleway-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 262.
+(Font)              scaled to size 9.0pt on input line 265.
 
-Underfull \hbox (badness 10000) in paragraph at lines 271--272
+Underfull \hbox (badness 10000) in paragraph at lines 274--275
 
  []
 
 [2]
-Overfull \hbox (0.16418pt too wide) in paragraph at lines 279--280
+Overfull \hbox (0.16418pt too wide) in paragraph at lines 282--283
 []$[]$\T1/Raleway-TLF/m/n/9 , Bowler D.E. & Keil P. (2022) In-te-grat-ing prese
 nce-only and presence-absence data to model changes
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 285--286
+Underfull \hbox (badness 10000) in paragraph at lines 288--289
 
  []
 
 
-Overfull \hbox (1.9642pt too wide) in paragraph at lines 289--290
+Overfull \hbox (1.9642pt too wide) in paragraph at lines 292--293
 []\T1/Raleway-TLF/m/n/9 Chouhy M., Bergós L., Garay A., $[]$, Per-azza G., San-
 tos C. & Taks J. (2022) Rela-ciones Sociedad-Naturaleza
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 298--299
+Underfull \hbox (badness 10000) in paragraph at lines 301--302
 
  []
 
 
-Overfull \hbox (8.00002pt too wide) in alignment at lines 300--351
+Overfull \hbox (8.00002pt too wide) in alignment at lines 303--354
  [] [] 
  []
 
 
-Overfull \hbox (8.00002pt too wide) in alignment at lines 351--372
+Overfull \hbox (8.00002pt too wide) in alignment at lines 354--375
  [] [] 
  []
 
 [3]
-Underfull \hbox (badness 10000) in paragraph at lines 378--379
+Underfull \hbox (badness 10000) in paragraph at lines 381--382
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 390--391
+Underfull \hbox (badness 10000) in paragraph at lines 393--394
 
  []
 
 
-Overfull \hbox (8.00002pt too wide) in alignment at lines 392--428
+Overfull \hbox (8.00002pt too wide) in alignment at lines 395--431
  [] [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 436--437
+Underfull \hbox (badness 10000) in paragraph at lines 439--440
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 444--445
+Underfull \hbox (badness 10000) in paragraph at lines 447--448
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 446--448
+Underfull \hbox (badness 10000) in paragraph at lines 449--451
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 453--454
+Underfull \hbox (badness 10000) in paragraph at lines 456--457
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 455--464
+Underfull \hbox (badness 10000) in paragraph at lines 458--467
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 455--464
+Underfull \hbox (badness 10000) in paragraph at lines 458--467
 
  []
 
 
-Overfull \hbox (1.52998pt too wide) in paragraph at lines 434--466
+Overfull \hbox (1.52998pt too wide) in paragraph at lines 437--469
 [][]  [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 472--473
+Underfull \hbox (badness 10000) in paragraph at lines 475--476
 
  []
 
 
-Overfull \hbox (8.00002pt too wide) in alignment at lines 474--525
+Overfull \hbox (8.00002pt too wide) in alignment at lines 477--528
  [] [] 
  []
 
 
-Overfull \hbox (8.00002pt too wide) in alignment at lines 525--536
+Overfull \hbox (8.00002pt too wide) in alignment at lines 528--539
  [] [] 
  []
 
 [4]
-Underfull \hbox (badness 10000) in paragraph at lines 542--543
+Underfull \hbox (badness 10000) in paragraph at lines 545--546
 
  []
 
 
-Overfull \hbox (8.00002pt too wide) in alignment at lines 544--595
+Overfull \hbox (8.00002pt too wide) in alignment at lines 547--598
  [] [] 
  []
 
 
-Overfull \hbox (8.00002pt too wide) in alignment at lines 595--640
+Overfull \hbox (8.00002pt too wide) in alignment at lines 598--648
+ [] [] 
+ []
+
+
+Overfull \hbox (8.00002pt too wide) in alignment at lines 648--658
  [] [] 
  []
 
 [5]
-Underfull \hbox (badness 10000) in paragraph at lines 648--649
+Underfull \hbox (badness 10000) in paragraph at lines 666--667
 
  []
 
 
-Overfull \hbox (8.00002pt too wide) in alignment at lines 650--701
+Overfull \hbox (8.00002pt too wide) in alignment at lines 668--719
  [] [] 
  []
 
 
-Overfull \hbox (8.00002pt too wide) in alignment at lines 701--751
+Overfull \hbox (8.00002pt too wide) in alignment at lines 719--769
  [] [] 
  []
 
 
-Overfull \hbox (8.00002pt too wide) in alignment at lines 751--751
+Overfull \hbox (8.00002pt too wide) in alignment at lines 769--769
  [] [] 
  []
 
@@ -1267,11 +1272,11 @@ Package rerunfilecheck Info: File `CV_FGrattarola.out' has not changed.
 Here is how much of TeX's memory you used:
  24873 strings out of 478994
  492439 string characters out of 5858184
- 788447 words of memory out of 5000000
+ 790447 words of memory out of 5000000
  41886 multiletter control sequences out of 15000+600000
  545298 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 128i,8n,130p,1312b,440s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 128i,8n,130p,1312b,430s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/raleway/a_2bcjq6.enc}{/us
 r/local/texlive/2021/texmf-dist/fonts/enc/dvips/raleway/a_bzmckq.enc}{/usr/loca
 l/texlive/2021/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands1.enc}{/usr/loc
@@ -1285,10 +1290,10 @@ ntAwesome5Free-Solid.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/impall
 ari/raleway/Raleway-Bold.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/im
 pallari/raleway/Raleway-BoldItalic.pfb></usr/local/texlive/2021/texmf-dist/font
 s/type1/impallari/raleway/Raleway-Regular.pfb>
-Output written on CV_FGrattarola.pdf (7 pages, 151631 bytes).
+Output written on CV_FGrattarola.pdf (7 pages, 152479 bytes).
 PDF statistics:
- 174 PDF objects out of 1000 (max. 8388607)
- 158 compressed objects within 2 object streams
+ 179 PDF objects out of 1000 (max. 8388607)
+ 163 compressed objects within 2 object streams
  15 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
