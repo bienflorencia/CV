@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.3.11)  23 JAN 2024 10:54
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.3.11)  17 MAR 2024 11:21
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1129,143 +1129,143 @@ Underfull \hbox (badness 10000) in paragraph at lines 274--275
  []
 
 [2]
-Overfull \hbox (0.16418pt too wide) in paragraph at lines 282--283
+Overfull \hbox (0.16418pt too wide) in paragraph at lines 284--285
 []$[]$\T1/Raleway-TLF/m/n/9 , Bowler D.E. & Keil P. (2022) In-te-grat-ing prese
 nce-only and presence-absence data to model changes
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 288--289
+Underfull \hbox (badness 10000) in paragraph at lines 290--291
 
  []
 
 
-Overfull \hbox (1.9642pt too wide) in paragraph at lines 292--293
+Overfull \hbox (1.9642pt too wide) in paragraph at lines 294--295
 []\T1/Raleway-TLF/m/n/9 Chouhy M., Bergós L., Garay A., $[]$, Per-azza G., San-
 tos C. & Taks J. (2022) Rela-ciones Sociedad-Naturaleza
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 301--302
+Underfull \hbox (badness 10000) in paragraph at lines 303--304
 
  []
 
 
-Overfull \hbox (8.00002pt too wide) in alignment at lines 303--354
+Overfull \hbox (8.00002pt too wide) in alignment at lines 305--356
  [] [] 
  []
 
 
-Overfull \hbox (8.00002pt too wide) in alignment at lines 354--375
+Overfull \hbox (8.00002pt too wide) in alignment at lines 356--377
  [] [] 
  []
 
 [3]
-Underfull \hbox (badness 10000) in paragraph at lines 381--382
+Underfull \hbox (badness 10000) in paragraph at lines 383--384
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 393--394
+Underfull \hbox (badness 10000) in paragraph at lines 395--396
 
  []
 
 
-Overfull \hbox (8.00002pt too wide) in alignment at lines 395--431
+Overfull \hbox (8.00002pt too wide) in alignment at lines 397--433
  [] [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 439--440
+Underfull \hbox (badness 10000) in paragraph at lines 441--442
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 447--448
+Underfull \hbox (badness 10000) in paragraph at lines 449--450
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 449--451
+Underfull \hbox (badness 10000) in paragraph at lines 451--453
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 456--457
+Underfull \hbox (badness 10000) in paragraph at lines 458--459
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 458--467
+Underfull \hbox (badness 10000) in paragraph at lines 460--469
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 458--467
+Underfull \hbox (badness 10000) in paragraph at lines 460--469
 
  []
 
 
-Overfull \hbox (1.52998pt too wide) in paragraph at lines 437--469
+Overfull \hbox (1.52998pt too wide) in paragraph at lines 439--471
 [][]  [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 475--476
+Underfull \hbox (badness 10000) in paragraph at lines 477--478
 
  []
 
 
-Overfull \hbox (8.00002pt too wide) in alignment at lines 477--528
+Overfull \hbox (8.00002pt too wide) in alignment at lines 479--530
  [] [] 
  []
 
 
-Overfull \hbox (8.00002pt too wide) in alignment at lines 528--539
+Overfull \hbox (8.00002pt too wide) in alignment at lines 530--541
  [] [] 
  []
 
 [4]
-Underfull \hbox (badness 10000) in paragraph at lines 545--546
+Underfull \hbox (badness 10000) in paragraph at lines 547--548
 
  []
 
 
-Overfull \hbox (8.00002pt too wide) in alignment at lines 547--598
+Overfull \hbox (8.00002pt too wide) in alignment at lines 549--600
  [] [] 
  []
 
 
-Overfull \hbox (8.00002pt too wide) in alignment at lines 598--648
- [] [] 
- []
-
-
-Overfull \hbox (8.00002pt too wide) in alignment at lines 648--658
+Overfull \hbox (8.00002pt too wide) in alignment at lines 600--650
  [] [] 
  []
 
 [5]
-Underfull \hbox (badness 10000) in paragraph at lines 666--667
-
- []
-
-
-Overfull \hbox (8.00002pt too wide) in alignment at lines 668--719
+Overfull \hbox (8.00002pt too wide) in alignment at lines 650--660
  [] [] 
  []
 
 
-Overfull \hbox (8.00002pt too wide) in alignment at lines 719--769
+Underfull \hbox (badness 10000) in paragraph at lines 668--669
+
+ []
+
+
+Overfull \hbox (8.00002pt too wide) in alignment at lines 670--721
  [] [] 
  []
 
 
-Overfull \hbox (8.00002pt too wide) in alignment at lines 769--769
+Overfull \hbox (8.00002pt too wide) in alignment at lines 721--771
  [] [] 
  []
 
-[6] [7] (./CV_FGrattarola.aux)
+[6]
+Overfull \hbox (8.00002pt too wide) in alignment at lines 771--776
+ [] [] 
+ []
+
+[7] (./CV_FGrattarola.aux)
 Package rerunfilecheck Info: File `CV_FGrattarola.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
@@ -1290,10 +1290,10 @@ ntAwesome5Free-Solid.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/impall
 ari/raleway/Raleway-Bold.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/im
 pallari/raleway/Raleway-BoldItalic.pfb></usr/local/texlive/2021/texmf-dist/font
 s/type1/impallari/raleway/Raleway-Regular.pfb>
-Output written on CV_FGrattarola.pdf (7 pages, 152513 bytes).
+Output written on CV_FGrattarola.pdf (7 pages, 152971 bytes).
 PDF statistics:
- 179 PDF objects out of 1000 (max. 8388607)
- 163 compressed objects within 2 object streams
+ 181 PDF objects out of 1000 (max. 8388607)
+ 165 compressed objects within 2 object streams
  15 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
