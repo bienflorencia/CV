@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.3.11)  17 MAR 2024 11:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.3.11)  5 MAY 2024 19:49
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1110,158 +1110,158 @@ LaTeX Font Info:    Font shape `T1/Raleway-TLF/m/it' will be
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/b/it' will be
 (Font)              scaled to size 9.0pt on input line 233.
 
-Overfull \hbox (1.5232pt too wide) in paragraph at lines 239--240
+Overfull \hbox (1.5232pt too wide) in paragraph at lines 241--242
 []$[]$\T1/Raleway-TLF/m/n/9 , Bowler D.E. & Keil P. (2023) In-te-grat-ing prese
 nce-only and pres-ence^^Uabsence data to model changes
  []
 
 LaTeX Font Info:    Trying to load font information for TS1+Raleway-TLF on inpu
-t line 265.
+t line 267.
 (/usr/local/texlive/2021/texmf-dist/tex/latex/raleway/TS1Raleway-TLF.fd
 File: TS1Raleway-TLF.fd 2014/07/28 (autoinst) Font definitions for TS1/Raleway-
 TLF.
 )
 LaTeX Font Info:    Font shape `TS1/Raleway-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 265.
+(Font)              scaled to size 9.0pt on input line 267.
 
-Underfull \hbox (badness 10000) in paragraph at lines 274--275
+Underfull \hbox (badness 10000) in paragraph at lines 276--277
 
  []
 
 [2]
-Overfull \hbox (0.16418pt too wide) in paragraph at lines 284--285
+Overfull \hbox (0.16418pt too wide) in paragraph at lines 286--287
 []$[]$\T1/Raleway-TLF/m/n/9 , Bowler D.E. & Keil P. (2022) In-te-grat-ing prese
 nce-only and presence-absence data to model changes
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 290--291
+Underfull \hbox (badness 10000) in paragraph at lines 292--293
 
  []
 
 
-Overfull \hbox (1.9642pt too wide) in paragraph at lines 294--295
+Overfull \hbox (1.9642pt too wide) in paragraph at lines 296--297
 []\T1/Raleway-TLF/m/n/9 Chouhy M., Bergós L., Garay A., $[]$, Per-azza G., San-
 tos C. & Taks J. (2022) Rela-ciones Sociedad-Naturaleza
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 303--304
+Underfull \hbox (badness 10000) in paragraph at lines 305--306
 
  []
 
 
-Overfull \hbox (8.00002pt too wide) in alignment at lines 305--356
+Overfull \hbox (8.00002pt too wide) in alignment at lines 307--358
  [] [] 
  []
 
 
-Overfull \hbox (8.00002pt too wide) in alignment at lines 356--377
+Overfull \hbox (8.00002pt too wide) in alignment at lines 358--379
  [] [] 
  []
 
 [3]
-Underfull \hbox (badness 10000) in paragraph at lines 383--384
+Underfull \hbox (badness 10000) in paragraph at lines 385--386
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 395--396
+Underfull \hbox (badness 10000) in paragraph at lines 397--398
 
  []
 
 
-Overfull \hbox (8.00002pt too wide) in alignment at lines 397--433
+Overfull \hbox (8.00002pt too wide) in alignment at lines 399--435
  [] [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 441--442
+Underfull \hbox (badness 10000) in paragraph at lines 443--444
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 449--450
+Underfull \hbox (badness 10000) in paragraph at lines 451--452
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 451--453
+Underfull \hbox (badness 10000) in paragraph at lines 453--455
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 458--459
+Underfull \hbox (badness 10000) in paragraph at lines 460--461
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 460--469
+Underfull \hbox (badness 10000) in paragraph at lines 462--471
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 460--469
+Underfull \hbox (badness 10000) in paragraph at lines 462--471
 
  []
 
 
-Overfull \hbox (1.52998pt too wide) in paragraph at lines 439--471
+Overfull \hbox (1.52998pt too wide) in paragraph at lines 441--473
 [][]  [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 477--478
+Underfull \hbox (badness 10000) in paragraph at lines 479--480
 
  []
 
 
-Overfull \hbox (8.00002pt too wide) in alignment at lines 479--530
- [] [] 
- []
-
-
-Overfull \hbox (8.00002pt too wide) in alignment at lines 530--541
+Overfull \hbox (8.00002pt too wide) in alignment at lines 481--532
  [] [] 
  []
 
 [4]
-Underfull \hbox (badness 10000) in paragraph at lines 547--548
-
- []
-
-
-Overfull \hbox (8.00002pt too wide) in alignment at lines 549--600
+Overfull \hbox (8.00002pt too wide) in alignment at lines 532--543
  [] [] 
  []
 
 
-Overfull \hbox (8.00002pt too wide) in alignment at lines 600--650
+Underfull \hbox (badness 10000) in paragraph at lines 549--550
+
+ []
+
+
+Overfull \hbox (8.00002pt too wide) in alignment at lines 551--602
+ [] [] 
+ []
+
+
+Overfull \hbox (8.00002pt too wide) in alignment at lines 602--652
  [] [] 
  []
 
 [5]
-Overfull \hbox (8.00002pt too wide) in alignment at lines 650--660
+Overfull \hbox (8.00002pt too wide) in alignment at lines 652--662
  [] [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 668--669
+Underfull \hbox (badness 10000) in paragraph at lines 670--671
 
  []
 
 
-Overfull \hbox (8.00002pt too wide) in alignment at lines 670--721
+Overfull \hbox (8.00002pt too wide) in alignment at lines 672--723
  [] [] 
  []
 
 
-Overfull \hbox (8.00002pt too wide) in alignment at lines 721--771
+Overfull \hbox (8.00002pt too wide) in alignment at lines 723--773
  [] [] 
  []
 
 [6]
-Overfull \hbox (8.00002pt too wide) in alignment at lines 771--776
+Overfull \hbox (8.00002pt too wide) in alignment at lines 773--783
  [] [] 
  []
 
@@ -1276,7 +1276,7 @@ Here is how much of TeX's memory you used:
  41886 multiletter control sequences out of 15000+600000
  545298 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 128i,8n,130p,1312b,430s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 128i,8n,130p,1312b,423s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/raleway/a_2bcjq6.enc}{/us
 r/local/texlive/2021/texmf-dist/fonts/enc/dvips/raleway/a_bzmckq.enc}{/usr/loca
 l/texlive/2021/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands1.enc}{/usr/loc
@@ -1290,10 +1290,10 @@ ntAwesome5Free-Solid.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/impall
 ari/raleway/Raleway-Bold.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/im
 pallari/raleway/Raleway-BoldItalic.pfb></usr/local/texlive/2021/texmf-dist/font
 s/type1/impallari/raleway/Raleway-Regular.pfb>
-Output written on CV_FGrattarola.pdf (7 pages, 152971 bytes).
+Output written on CV_FGrattarola.pdf (7 pages, 153292 bytes).
 PDF statistics:
- 181 PDF objects out of 1000 (max. 8388607)
- 165 compressed objects within 2 object streams
+ 183 PDF objects out of 1000 (max. 8388607)
+ 167 compressed objects within 2 object streams
  15 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
