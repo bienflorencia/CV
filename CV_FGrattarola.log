@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.3.11)  19 NOV 2026 13:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.3.11)  19 NOV 2026 14:05
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1197,93 +1197,93 @@ Underfull \hbox (badness 10000) in paragraph at lines 514--515
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 516--518
+Underfull \hbox (badness 10000) in paragraph at lines 516--520
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 523--524
+Underfull \hbox (badness 10000) in paragraph at lines 526--527
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 525--534
+Underfull \hbox (badness 10000) in paragraph at lines 528--537
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 525--534
+Underfull \hbox (badness 10000) in paragraph at lines 528--537
 
  []
 
 
-Overfull \hbox (1.52998pt too wide) in paragraph at lines 501--536
+Overfull \hbox (1.52998pt too wide) in paragraph at lines 501--539
 [][]  [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 544--545
+Underfull \hbox (badness 10000) in paragraph at lines 547--548
 
  []
 
 
-Overfull \hbox (8.00002pt too wide) in alignment at lines 546--597
+Overfull \hbox (8.00002pt too wide) in alignment at lines 549--600
  [] [] 
  []
 
 
-Overfull \hbox (8.00002pt too wide) in alignment at lines 597--628
+Overfull \hbox (8.00002pt too wide) in alignment at lines 600--631
  [] [] 
  []
 
 [6]
-Underfull \hbox (badness 10000) in paragraph at lines 636--637
+Underfull \hbox (badness 10000) in paragraph at lines 639--640
 
  []
 
 
-Overfull \hbox (8.00002pt too wide) in alignment at lines 638--689
+Overfull \hbox (8.00002pt too wide) in alignment at lines 641--692
  [] [] 
  []
 
 
-Overfull \hbox (8.00002pt too wide) in alignment at lines 689--739
+Overfull \hbox (8.00002pt too wide) in alignment at lines 692--742
  [] [] 
  []
 
 
-Overfull \hbox (8.00002pt too wide) in alignment at lines 739--784
+Overfull \hbox (8.00002pt too wide) in alignment at lines 742--787
  [] [] 
  []
 
 [7]
-Underfull \hbox (badness 10000) in paragraph at lines 792--793
+Underfull \hbox (badness 10000) in paragraph at lines 795--796
 
  []
 
 
-Overfull \hbox (8.00002pt too wide) in alignment at lines 794--845
+Overfull \hbox (8.00002pt too wide) in alignment at lines 797--848
  [] [] 
  []
 
 
-Overfull \hbox (8.00002pt too wide) in alignment at lines 845--895
+Overfull \hbox (8.00002pt too wide) in alignment at lines 848--898
  [] [] 
  []
 
 [8]
-Overfull \hbox (8.00002pt too wide) in alignment at lines 895--930
+Overfull \hbox (8.00002pt too wide) in alignment at lines 898--933
  [] [] 
  []
 
-[9] (./CV_FGrattarola.aux)
+[9] [10] (./CV_FGrattarola.aux)
 Package rerunfilecheck Info: File `CV_FGrattarola.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 24877 strings out of 478994
- 492475 string characters out of 5858184
- 794478 words of memory out of 5000000
+ 24878 strings out of 478994
+ 492482 string characters out of 5858184
+ 794775 words of memory out of 5000000
  41888 multiletter control sequences out of 15000+600000
  545298 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1301,10 +1301,10 @@ ntAwesome5Free-Solid.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/impall
 ari/raleway/Raleway-Bold.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/im
 pallari/raleway/Raleway-BoldItalic.pfb></usr/local/texlive/2021/texmf-dist/font
 s/type1/impallari/raleway/Raleway-Regular.pfb>
-Output written on CV_FGrattarola.pdf (9 pages, 165920 bytes).
+Output written on CV_FGrattarola.pdf (10 pages, 166300 bytes).
 PDF statistics:
- 223 PDF objects out of 1000 (max. 8388607)
- 204 compressed objects within 3 object streams
- 17 named destinations out of 1000 (max. 500000)
+ 228 PDF objects out of 1000 (max. 8388607)
+ 208 compressed objects within 3 object streams
+ 18 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
